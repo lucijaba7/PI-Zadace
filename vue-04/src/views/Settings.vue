@@ -1,6 +1,7 @@
 <template>
   <div class="account">
-    <h1>Change password</h1>
+    <h1>User settings</h1>
+    <h3>Change password:</h3>
 
     <div class="row">
       <div class="col"></div>

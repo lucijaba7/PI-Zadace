@@ -43,7 +43,7 @@
             <a href="#" @click.prevent="logout" class="nav-link">Logout</a>
           </li>
           <li v-if="store.currentUser" class="nav-item">
-            <router-link to="/account" class="nav-link">Account</router-link>
+            <router-link to="/settings" class="nav-link">Settings</router-link>
           </li>
         </ul>
       </div>
