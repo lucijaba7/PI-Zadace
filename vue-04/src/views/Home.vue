@@ -38,20 +38,20 @@ let cards = [];
 //... API/Firebase -> sve kartice -> cards
 cards = [
   {
-    user: "ivan222",
-    title: "Slika prva.",
+    user: "ivo222",
+    title: "Slika prva. Čovjek i laptop!",
     time: "an hour ago",
     url: "https://picsum.photos/id/1/400/400",
   },
   {
     user: "ana_123",
-    title: "Slika druga.",
+    title: "Slika druga. Samo laptop.",
     time: "2 days ago",
     url: "https://picsum.photos/id/2/400/400",
   },
   {
-    user: "eva88",
-    title: "Treća slika.",
+    user: "evan88",
+    title: "Treća slika. Mobitel, ali iza je laptop.",
     time: "23 days ago",
     url: "https://picsum.photos/id/3/400/400",
   },
