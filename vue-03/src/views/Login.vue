@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <h1>This is a login page</h1>
-
+    <br />
     <div class="row">
       <div class="col"></div>
       <div class="col">
